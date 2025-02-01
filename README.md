@@ -52,3 +52,6 @@
 
 ✔️ Optimized for efficiency so you can stay productive.
 
+✔️ AI-Powered Trading Assistant
+
+
